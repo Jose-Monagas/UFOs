@@ -9,7 +9,7 @@ The main purpose of this project is to create a dynamic web page that contains a
 The new webpage layout is user friendly and easy to understand. 
 On the top left-hand side, we have the "UFO Sightings" element that refreshes the page after a search has been carried out. 
 
-![page layout](static/images/layout.jpeg)
+![page layout](static/images/layout.png)
 
 On the bottom left side, next to the table data, there is the "Filter Search" element that allows the user to input data and customize their search. There are five filters available and they can be used individually or all at the same time. 
 
